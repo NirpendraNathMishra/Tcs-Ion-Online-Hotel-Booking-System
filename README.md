@@ -8,20 +8,6 @@ A web application to book a room in a hotel, a customer must check the applicati
 * Responsive design
 * Online hotel reservation
 
-### Screenshoot
-Home           |
-:--------------:|
-![home - screenshoot](screenshots/home.PNG) |
-
-
-Available rooms    |
-:-----------------:|
-![available rooms - screenshoot](screenshots/availableRooms.PNG) |
-
-Reservation       |
-:----------------:|
-![reservation - screenshoot](screenshots/finalReservation.PNG) |
-
 ### Used Languages
 * Java
 * HTML
